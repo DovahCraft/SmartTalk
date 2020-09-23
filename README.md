@@ -1,0 +1,2 @@
+# SmartTalk
+Capstone project repo.
